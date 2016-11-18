@@ -1,2 +1,2 @@
 # reddit-api
-Using reddit api with axios ajax
+Fetching reddit api with axios ajax.
