@@ -1,0 +1,22 @@
+{
+  "name": "reddit-api",
+  "version": "1.0.0",
+  "description": "Fetching reddit api with axios ajax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdchad/reddit-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdchad/reddit-api/issues"
+  },
+  "homepage": "https://github.com/mdchad/reddit-api#readme",
+  "dependencies": {
+    "axios": "^0.15.2"
+  }
+}
